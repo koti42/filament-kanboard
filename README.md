@@ -4,5 +4,5 @@ Merhaba, Laravel.gen.tr için mokhosh/filament-kanboard eklentisi ile geliştird
 
 Saygılarımla.
 
-<p align="center"><a href="https://instagram.com/mehmet.kucukcelebi" target="_blank"><img src="h[ttps://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg](https://i.hizliresim.com/8uhgubn.png)" width="400" alt="Laravel Filament Kanboard"></a></p>
+<p align="center"><a href="https://instagram.com/mehmet.kucukcelebi" target="_blank"><img src="https://i.hizliresim.com/8uhgubn.png" width="400" alt="Laravel Filament Kanboard"></a></p>
 
